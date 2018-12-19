@@ -1,0 +1,40 @@
+Event	Time	PID  Required	Total	Lowest Level
+Arrival	2	101	3	-	-
+Depart	5	101	-	3	2
+Arrival	7	102	1	-	-
+Depart	8	102	-	1	1
+Arrival	9	103	7	-	-
+Arrival	12	104	5	-	-
+Arrival	14	105	1	-	-
+Depart	15	105	-	1	1
+Arrival	17	106	1	-	-
+Arrival	18	107	50	-	-
+Depart	18	106	-	1	1
+Arrival	24	108	2	-	-
+Depart	26	108	-	2	1
+Depart	30	103	-	21	3
+Depart	31	104	-	19	3
+Arrival	34	109	12	-	-
+Arrival	37	110	3	-	-
+Depart	40	110	-	3	2
+Arrival	44	111	10	-	-
+Arrival	45	112	48	-	-
+Arrival	50	113	1	-	-
+Depart	51	113	-	1	1
+Arrival	56	114	1	-	-
+Depart	57	114	-	1	1
+Arrival	71	115	3	-	-
+Depart	74	115	-	3	2
+Depart	79	109	-	45	4
+Arrival	81	116	2	-	-
+Depart	83	116	-	2	1
+Depart	118	111	-	74	4
+Depart	152	112	-	107	4
+Depart	155	107	-	137	4
+Total number of jobs: 16
+Total time of all jobs in system: 421
+Average response time: 0
+Average turnaround time: 26.31
+Average waiting time: 16.94
+Average throughput for system:0.04
+Total CPU idle Time: 6
