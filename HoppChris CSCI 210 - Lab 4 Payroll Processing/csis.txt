@@ -1,0 +1,85 @@
+First Name      Last Name       Gender          Tenure          Rate            Pay             
+Howard          Starr           M               8               H               30.00           
+Joan            Jacobus         F               9               W               925.00          
+David           Renn            M               3               H               4.75            
+Albert          Cahana          M               3               H               18.75           
+Douglas         Sheer           M               5               W               250.00          
+Shari           Buchman         F               9               W               325.00          
+Sara            Jones           F               1               H               7.50            
+Ricky           Mofsen          M               6               H               12.50           
+Jean            Brennan         F               6               H               5.40            
+Deborah         Starr           F               3               W               1000.00         
+Jamie           Michaels        F               8               W               150.00          
+Number of employees on payroll: 11
+
+The female employees on payroll: 
+Joan Jacobus
+Shari Buchman
+Sara Jones
+Jean Brennan
+Deborah Starr
+Jamie Michaels
+
+Weekly employees who make more than $35,000 per year and have been with the company for 5 years:
+First Name      Last Name       Pay             
+Joan            Jacobus         925.0           
+
+
+Employees who recived a raise: 
+First Name      Last Name       Old Pay         New Pay         
+David           Renn            4.75            5.50            
+Douglas         Sheer           250.00          300.00          
+Shari           Buchman         325.00          375.00          
+Sara            Jones           7.50            8.25            
+Jean            Brennan         5.40            6.15            
+Jamie           Michaels        150.00          200.00          
+
+Alpha List: 
+First Name      Last Name       Gender          Tenure          Rate            Pay             
+Jean            Brennan         F               6               H               6.15            
+Shari           Buchman         F               9               W               375.00          
+Albert          Cahana          M               3               H               18.75           
+Joan            Jacobus         F               9               W               925.00          
+Sara            Jones           F               1               H               8.25            
+Jamie           Michaels        F               8               W               200.00          
+Ricky           Mofsen          M               6               H               12.50           
+David           Renn            M               3               H               5.50            
+Douglas         Sheer           M               5               W               300.00          
+Deborah         Starr           F               3               W               1000.00         
+Howard          Starr           M               8               H               30.00           
+Number of employees on payroll: 11
+
+Updated Payroll with hired employees: 
+First Name      Last Name       Gender          Tenure          Rate            Pay             
+Barry           Allen           M               0               H               6.75            
+Jean            Brennan         F               6               H               6.15            
+Shari           Buchman         F               9               W               375.00          
+Albert          Cahana          M               3               H               18.75           
+Joan            Jacobus         F               9               W               925.00          
+Sara            Jones           F               1               H               8.25            
+Jamie           Michaels        F               8               W               200.00          
+Ricky           Mofsen          M               6               H               12.50           
+Nina            Pinella         F               0               W               425.00          
+David           Renn            M               3               H               5.50            
+Douglas         Sheer           M               5               W               300.00          
+Deborah         Starr           F               3               W               1000.00         
+Howard          Starr           M               8               H               30.00           
+Lane            Wagger          M               0               W               725.00          
+Number of employees on payroll: 14
+
+Updated Payroll with fired employees: 
+First Name      Last Name       Gender          Tenure          Rate            Pay             
+Barry           Allen           M               0               H               6.75            
+Shari           Buchman         F               9               W               375.00          
+Albert          Cahana          M               3               H               18.75           
+Joan            Jacobus         F               9               W               925.00          
+Sara            Jones           F               1               H               8.25            
+Jamie           Michaels        F               8               W               200.00          
+Nina            Pinella         F               0               W               425.00          
+David           Renn            M               3               H               5.50            
+Douglas         Sheer           M               5               W               300.00          
+Deborah         Starr           F               3               W               1000.00         
+Howard          Starr           M               8               H               30.00           
+Lane            Wagger          M               0               W               725.00          
+Number of employees on payroll: 12
+
