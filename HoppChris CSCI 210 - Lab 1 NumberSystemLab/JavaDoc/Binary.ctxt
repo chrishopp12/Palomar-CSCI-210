@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=pw
+comment0.target=Binary(java.io.PrintWriter)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Binary\r\n\ @param\ PrintWriter\ pw\r\n
+comment1.params=
+comment1.target=void\ binToDec()
+comment1.text=\r\n\ binToDec\ method\ calls\ necessary\ methods\ to\ convert\ decimal\ to\ binary\r\n\ \r\n
+comment2.params=
+comment2.target=void\ binToHex()
+comment2.text=\r\n\ binToHex\ method\ calls\ necessary\ methods\ to\ convert\ decimal\ to\ hexadecimal\r\n\ \r\n
+comment3.params=
+comment3.target=void\ inputBin()
+comment3.text=\r\n\ inputBin\ method\ takes\ user\ input\ of\ a\ binary\ number\ in\ string\ format\ and\ converts\ to\ binary\ format\r\n\ \r\n
+comment4.params=
+comment4.target=void\ toDec()
+comment4.text=\r\n\ toDec\ method\ creates\ a\ decimal\ value\ from\ a\ binary\r\n\ \r\n
+comment5.params=
+comment5.target=void\ outDec()
+comment5.text=\r\n\ outDec\ method\ outputs\ a\ decimal\ value\r\n\ \r\n
+comment6.params=
+comment6.target=void\ toHex()
+comment6.text=\r\n\ toHex\ method\ creates\ a\ hexadecimal\ value\ from\ a\ decimal\r\n\ \r\n
+comment7.params=
+comment7.target=void\ outHex()
+comment7.text=\r\n\ outHex\ outputs\ a\ hexadecimal\ value\r\n\ \r\n
+numComments=8
